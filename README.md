@@ -3,10 +3,10 @@
 # Meu Jogo 2D
 
 ## História do Jogo
-Em um mundo colorido e vibrante, nosso herói, **Piupiu**, um pequeno passarinho aventureiro, sonha em explorar novos horizontes. Porém, o caminho está repleto de obstáculos perigosos! Ajude Piupiu a voar mais alto e desviar das barreiras, enquanto coleciona estrelas e conquista o céu.
+Em um mundo chuvoso e vibrante, nosso herói, **Piupiu**, um pequeno passarinho aventureiro, sonha em explorar novos horizontes. Porém, o caminho está repleto de obstáculos perigosos, por conta da chuva! Ajude Piupiu a voar mais alto e desviar das barreiras, enquanto coleciona moedas e conquista o céu.
 
 ## Gameplay
-O objetivo do jogo é guiar Piupiu pelo céu, evitando os obstáculos. A cada estrela coletada, sua pontuação aumenta. O jogo termina quando Piuṕiu colide com um obstáculo. O desafio é alcançar a maior pontuação possível!
+O objetivo do jogo é guiar Piupiu pelo céu, evitando os obstáculos. A cada moeda coletada, sua pontuação aumenta. O jogo termina quando Piuṕiu colide com um obstáculo. O desafio é alcançar a maior pontuação possível!
 
 ## Controles
 - **Toque na tela** (ou pressione a tecla **Espaço**) para fazer Piupiu subir.
