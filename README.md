@@ -1,27 +1,35 @@
-# Jogo-do-piupiu
-### Flappy Lua
+# game of the year
 
-## Descrição
-Flappy Lua é um jogo simples em 2D inspirado no clássico Flappy Bird. O jogador controla um pássaro que deve voar entre obstáculos sem colidir.
+# Meu Jogo 2D
+
+## História do Jogo
+Em um mundo colorido e vibrante, nosso herói, **Piupiu**, um pequeno passarinho aventureiro, sonha em explorar novos horizontes. Porém, o caminho está repleto de obstáculos perigosos! Ajude Piupiu a voar mais alto e desviar das barreiras, enquanto coleciona estrelas e conquista o céu.
 
 ## Gameplay
-- O jogador toca na tela para fazer o pássaro subir.
-- O pássaro desce automaticamente devido à gravidade.
-- O objetivo é passar por quantos mais obstáculos possível.
+O objetivo do jogo é guiar Piupiu pelo céu, evitando os obstáculos. A cada estrela coletada, sua pontuação aumenta. O jogo termina quando Piuṕiu colide com um obstáculo. O desafio é alcançar a maior pontuação possível!
 
 ## Controles
-- **Toque na tela:** O pássaro sobe.
-- **Soltar a tela:** O pássaro desce.
+- **Toque na tela** (ou pressione a tecla **Espaço**) para fazer Piupiu subir.
+- O personagem desce automaticamente devido à gravidade.
 
 ## Como Jogar
-1. Inicie o jogo na tela inicial.
-2. Toque na tela para começar.
-3. Tente passar pelos obstáculos sem colidir.
+1. Inicie o jogo.
+2. Toque na tela ou pressione **Espaço** para fazer o gatinho subir.
+3. Evite os obstáculos enquanto coleta estrelas.
+4. Tente bater sua própria pontuação a cada tentativa!
 
-## Tecnologias Usadas
-- **Lua:** Linguagem de programação para desenvolvimento.
-- **Biblioteca X:** (substitua pela biblioteca que você está usando, como Love2D)
+## Objetivos do Projeto
+- Aprender a usar a ferramenta **GitHub** para versionamento de código.
+- Criar e editar um arquivo `README.md` que documente o jogo.
+- Iniciar o uso da linguagem **Lua** e bibliotecas para desenvolvimento de jogos 2D.
 
-## Instalando e Executando
-1. Clone o repositório:
+## Tecnologias Utilizadas
+- **Lua** para a lógica do jogo.
+- Bibliotecas de desenvolvimento de jogos 2D (ex.: LÖVE).
+
+## Como Contribuir
+Sinta-se à vontade para contribuir com melhorias, correções ou novas ideias para o jogo!
+
+## Licença
+Este projeto está licenciado sob a MIT License - consulte o arquivo LICENSE.md para detalhes.
 
